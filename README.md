@@ -9,12 +9,12 @@
 
 ## 🚀 Tech Stack
 
-**Languages:** C++ · Python · SQL
-**Frontend:** React.js · HTML5 · CSS3
-**Backend:** Node.js · Express.js · FastAPI
-**AI / ML:** LangChain · RAG · Vector Embeddings · Prompt Engineering
-**Databases:** MongoDB · ChromaDB · Oracle SQL
-**Tools:** Git · GitHub · Docker · VS Code
+- **Languages:** C++ · Python · SQL
+- **Frontend:** React.js · HTML5 · CSS3
+- **Backend:** Node.js · Express.js · FastAPI
+- **AI / ML:** LangChain · RAG · Vector Embeddings · Prompt Engineering
+- **Databases:** MongoDB · ChromaDB · Oracle SQL
+- **Tools:** Git · GitHub · Docker · VS Code
 
 ---
 
